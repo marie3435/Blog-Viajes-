@@ -1,0 +1,10 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#BCD6C7 ;
+}
+
+nav img{
+    width: 150px; /*Tamaño de la imagen */
+}
